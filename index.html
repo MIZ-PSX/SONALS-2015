@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SONALS 2015 — Redmi 8 Installation</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f3f6fb;
+    color: #182230;
+    line-height: 1.55;
+  }
+  .wrap { max-width: 850px; margin: 0 auto; padding: 24px 16px 48px; }
+  .hero {
+    background: linear-gradient(135deg, #102a43, #176b87);
+    color: white;
+    border-radius: 20px;
+    padding: 30px 24px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.12);
+  }
+  h1 { margin: 0 0 8px; font-size: 32px; }
+  .subtitle { margin: 0; opacity: .9; }
+  .card {
+    background: white;
+    margin-top: 18px;
+    padding: 22px;
+    border-radius: 16px;
+    box-shadow: 0 4px 18px rgba(0,0,0,.07);
+  }
+  h2 { margin-top: 0; color: #123b57; }
+  .warning {
+    border-left: 5px solid #d97706;
+    background: #fff7ed;
+    padding: 14px 16px;
+    border-radius: 10px;
+  }
+  .qr {
+    text-align: center;
+  }
+  .qr img {
+    width: min(360px, 90%);
+    height: auto;
+    border: 10px solid white;
+    box-shadow: 0 4px 18px rgba(0,0,0,.14);
+  }
+  .button {
+    display: inline-block;
+    margin: 8px 6px 4px 0;
+    padding: 13px 18px;
+    border-radius: 10px;
+    background: #176b87;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .button.secondary { background: #334155; }
+  code {
+    background: #eef2f7;
+    padding: 2px 5px;
+    border-radius: 5px;
+  }
+  li { margin: 8px 0; }
+  .small { color: #52606d; font-size: 14px; }
+  .hash {
+    word-break: break-all;
+    font-size: 13px;
+    background: #f1f5f9;
+    padding: 10px;
+    border-radius: 8px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="hero">
+    <h1>SONALS 2015</h1>
+    <p class="subtitle">Redmi 8 — Device Owner installation</p>
+  </header>
+
+  <section class="card">
+    <div class="warning">
+      <strong>Important:</strong> This procedure is for the dedicated SONALS Redmi 8.
+      Factory reset erases the phone's local data. Complete the backup checklist
+      before starting.
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>1. Before factory reset</h2>
+    <ol>
+      <li>Back up the Google account data and verify the backup.</li>
+      <li>Back up Xiaomi/MIUI data and copy any local backup files to a computer or other safe location.</li>
+      <li>Make sure photos and videos are safely backed up.</li>
+      <li>Make sure WhatsApp has a current backup if WhatsApp is used.</li>
+      <li>Make sure the family knows the Google/Xiaomi account credentials needed after reset.</li>
+      <li>Keep this installation page open on another phone, tablet, or computer so the QR code can be displayed during setup.</li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h2>2. Factory reset the Redmi 8</h2>
+    <p>
+      On the Redmi 8, use the normal Android/MIUI factory-reset procedure.
+      The device must be in the unprovisioned state for Device Owner provisioning.
+    </p>
+    <p class="small">
+      If the phone is already configured normally, do not try to provision SONALS
+      as Device Owner without the required reset/unprovisioned state.
+    </p>
+  </section>
+
+  <section class="card qr">
+    <h2>3. SONALS Device Owner QR</h2>
+    <p>
+      During the initial device setup, when Android offers the QR-code/device-management
+      provisioning option, scan the QR below.
+    </p>
+    <img src="sonals_device_owner_provisioning_qr.png" alt="SONALS Device Owner provisioning QR code">
+    <p>
+      <a class="button secondary" href="sonals_device_owner_provisioning_qr.png" target="_blank">Open QR Full Size</a>
+    </p>
+    <p class="small">
+      This QR is tied to the SONALS 2015 Redmi 8 test APK published on GitHub.
+      Do not use it with a different APK.
+    </p>
+  </section>
+
+  <section class="card">
+    <h2>4. APK download</h2>
+    <p>Use this only if Android asks for the SONALS APK download or if you need to download the APK separately.</p>
+    <a class="button" href="https://github.com/MIZ-PSX/SONALS-2015/releases/download/v1.0.0-test/app-debug.apk">Download SONALS 2015 APK</a>
+    <p class="small">Test release: v1.0.0-test</p>
+  </section>
+
+  <section class="card">
+    <h2>5. After provisioning</h2>
+    <ol>
+      <li>Allow the Redmi 8 to finish device setup.</li>
+      <li>SONALS should become the protected device-management application.</li>
+      <li>Open SONALS and complete the initial setup.</li>
+      <li>Test the normal SONALS adventure/question flow.</li>
+      <li>Test the earned screen-time reward only after the basic setup is working.</li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h2>6. Important — returning the phone to normal Android</h2>
+    <p>
+      SONALS Device Owner mode is intended to control the dedicated game device.
+      When you eventually want to return the Redmi 8 to ordinary Android ownership,
+      use the SONALS parent/device-management controls as instructed by the project
+      owner, then follow the approved device reset procedure.
+    </p>
+    <p class="warning">
+      Do not uninstall SONALS or attempt random ADB Device Owner removal commands.
+      Device Owner removal is intentionally protected.
+    </p>
+  </section>
+
+  <section class="card">
+    <h2>Build verification</h2>
+    <p class="small">Release: <code>v1.0.0-test</code></p>
+    <p class="small">SHA-256:</p>
+    <div class="hash">adb1eb9d52e10204c0d3908feff36b6a759b0606dfa45d03e82aae075df8f60b</div>
+  </section>
+
+</div>
+</body>
+</html>
