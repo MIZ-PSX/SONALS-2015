@@ -1,0 +1,21 @@
+[
+  {
+    "id": "zuhair_week_01_math_001",
+    "subject": "Mathematics",
+    "topic": "Test",
+    "skill": "Weekly Review",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 20,
+    "question": "What is 2 + 3?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "2 + 3 = 5."
+  }
+]

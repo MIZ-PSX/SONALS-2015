@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "id": "zuhair_week_01",
+      "name": "Week 01 — School Revision",
+      "group": "weekly_review",
+      "category": "Week 01",
+      "version": 1,
+      "defaultEnabled": false,
+      "path": "packages/week01"
+    }
+  ]
+}
