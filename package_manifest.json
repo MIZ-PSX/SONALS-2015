@@ -9,6 +9,15 @@
       "version": 1,
       "defaultEnabled": false,
       "path": "packages/week01"
+    },
+    {
+      "id": "zuhair_week_05",
+      "name": "Week 05 - School Revision",
+      "group": "weekly_review",
+      "category": "Week 05",
+      "version": 1,
+      "defaultEnabled": false,
+      "path": "packages/week05"
     }
   ]
 }
