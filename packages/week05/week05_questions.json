@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "zuhair_week_05_q001",
+    "subject": "Mathematics",
+    "topic": "Perfect Squares",
+    "skill": "Identify perfect squares",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which number is a perfect square?",
+    "options": [
+      "36",
+      "45",
+      "50",
+      "40"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "36 = 6 × 6, so it is a perfect square.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q002",
+    "subject": "Mathematics",
+    "topic": "Perfect Squares",
+    "skill": "Identify perfect squares",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which number is NOT a perfect square?",
+    "options": [
+      "81",
+      "49",
+      "64",
+      "72"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "72 cannot be written as a whole number multiplied by itself.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q003",
+    "subject": "Mathematics",
+    "topic": "Perfect Squares",
+    "skill": "Square values",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is 12²?",
+    "options": [
+      "132",
+      "124",
+      "154",
+      "144"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "12 × 12 = 144.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q004",
+    "subject": "Mathematics",
+    "topic": "Perfect Squares",
+    "skill": "Square values",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is 15²?",
+    "options": [
+      "235",
+      "250",
+      "225",
+      "215"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "15 × 15 = 225.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q005",
+    "subject": "Mathematics",
+    "topic": "Perfect Squares",
+    "skill": "Square roots",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which number has a square root of 9?",
+    "options": [
+      "81",
+      "27",
+      "90",
+      "18"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "9 × 9 = 81.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q006",
+    "subject": "Mathematics",
+    "topic": "Perfect Cubes",
+    "skill": "Identify perfect cubes",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which number is a perfect cube?",
+    "options": [
+      "24",
+      "45",
+      "36",
+      "27"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "27 = 3 × 3 × 3.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q007",
+    "subject": "Mathematics",
+    "topic": "Perfect Cubes",
+    "skill": "Identify perfect cubes",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which number is NOT a perfect cube?",
+    "options": [
+      "64",
+      "8",
+      "27",
+      "72"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "72 is not the cube of a whole number.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q008",
+    "subject": "Mathematics",
+    "topic": "Perfect Cubes",
+    "skill": "Cube values",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is 4³?",
+    "options": [
+      "84",
+      "16",
+      "64",
+      "12"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "4 × 4 × 4 = 64.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q009",
+    "subject": "Mathematics",
+    "topic": "Perfect Cubes",
+    "skill": "Cube values",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is 5³?",
+    "options": [
+      "75",
+      "25",
+      "100",
+      "125"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "5 × 5 × 5 = 125.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q010",
+    "subject": "Mathematics",
+    "topic": "Perfect Cubes",
+    "skill": "Cube roots",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which number has a cube root of 3?",
+    "options": [
+      "9",
+      "27",
+      "18",
+      "36"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "3 × 3 × 3 = 27.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q011",
+    "subject": "Mathematics",
+    "topic": "Square Roots",
+    "skill": "Calculate square roots",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is √49?",
+    "options": [
+      "9",
+      "7",
+      "6",
+      "8"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "7 × 7 = 49.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q012",
+    "subject": "Mathematics",
+    "topic": "Square Roots",
+    "skill": "Calculate square roots",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is √100?",
+    "options": [
+      "50",
+      "5",
+      "10",
+      "20"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "10 × 10 = 100.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q013",
+    "subject": "Mathematics",
+    "topic": "Square Roots",
+    "skill": "Compare roots",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which square root is equal to 8?",
+    "options": [
+      "√64",
+      "√16",
+      "√32",
+      "√81"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "√64 = 8.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q014",
+    "subject": "Mathematics",
+    "topic": "Square Roots",
+    "skill": "Use square roots",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "A square has an area of 121 cm². What is the length of one side?",
+    "options": [
+      "10 cm",
+      "12 cm",
+      "9 cm",
+      "11 cm"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "The side is √121 = 11 cm.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q015",
+    "subject": "Mathematics",
+    "topic": "Cube Roots",
+    "skill": "Calculate cube roots",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is ∛8?",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "2 × 2 × 2 = 8.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q016",
+    "subject": "Mathematics",
+    "topic": "Cube Roots",
+    "skill": "Calculate cube roots",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is ∛64?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "4 × 4 × 4 = 64.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q017",
+    "subject": "Mathematics",
+    "topic": "Cube Roots",
+    "skill": "Use cube roots",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "A cube has a volume of 125 cm³. What is the length of one edge?",
+    "options": [
+      "4 cm",
+      "10 cm",
+      "25 cm",
+      "5 cm"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "The edge is ∛125 = 5 cm.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q018",
+    "subject": "Mathematics",
+    "topic": "Order of Operations (BEDMAS)",
+    "skill": "Apply order of operations",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is 6 + 4 × 3?",
+    "options": [
+      "30",
+      "18",
+      "10",
+      "24"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Multiplication comes before addition: 6 + 12 = 18.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q019",
+    "subject": "Mathematics",
+    "topic": "Order of Operations (BEDMAS)",
+    "skill": "Apply order of operations",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is (6 + 4) × 3?",
+    "options": [
+      "24",
+      "18",
+      "30",
+      "36"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Brackets first: 10 × 3 = 30.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q020",
+    "subject": "Mathematics",
+    "topic": "Order of Operations (BEDMAS)",
+    "skill": "Apply order of operations",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is 20 − 12 ÷ 3?",
+    "options": [
+      "4",
+      "16",
+      "12",
+      "8"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Division first: 12 ÷ 3 = 4, then 20 − 4 = 16.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q021",
+    "subject": "Mathematics",
+    "topic": "Order of Operations (BEDMAS)",
+    "skill": "Apply order of operations",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is 5 × 4 − 6?",
+    "options": [
+      "26",
+      "14",
+      "30",
+      "20"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Multiply first: 20 − 6 = 14.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q022",
+    "subject": "Mathematics",
+    "topic": "Order of Operations (BEDMAS)",
+    "skill": "Apply order of operations",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is 18 ÷ 3 + 7?",
+    "options": [
+      "6",
+      "13",
+      "5",
+      "21"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Division first: 18 ÷ 3 = 6, then 6 + 7 = 13.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q023",
+    "subject": "Mathematics",
+    "topic": "Order of Operations (BEDMAS)",
+    "skill": "Apply order of operations",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is 7 + 3 × 5 − 2?",
+    "options": [
+      "18",
+      "48",
+      "20",
+      "22"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Multiply first: 7 + 15 − 2 = 20.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q024",
+    "subject": "Mathematics",
+    "topic": "Order of Operations (BEDMAS)",
+    "skill": "Apply order of operations",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is (8 − 3) × 4 + 2?",
+    "options": [
+      "22",
+      "18",
+      "20",
+      "26"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Brackets first: 5 × 4 + 2 = 22.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q025",
+    "subject": "Mathematics",
+    "topic": "Order of Operations (BEDMAS)",
+    "skill": "Apply order of operations",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which operation should be completed first in 9 + (6 × 2)?",
+    "options": [
+      "Subtraction",
+      "The brackets",
+      "Multiplication",
+      "Addition"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The bracketed operation is evaluated first.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q026",
+    "subject": "Science",
+    "topic": "Cells",
+    "skill": "Cells as building blocks",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is a cell?",
+    "options": [
+      "A type of organ",
+      "A complete body system",
+      "A basic building block of living things",
+      "A type of tissue"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The unit describes cells as the building blocks of life.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q027",
+    "subject": "Science",
+    "topic": "Cells",
+    "skill": "Organization of life",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which level comes directly after cells in the organization described in class?",
+    "options": [
+      "Organisms",
+      "Tissues",
+      "Organs",
+      "Systems"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Cells form tissues.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q028",
+    "subject": "Science",
+    "topic": "Cells",
+    "skill": "Organization of life",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which sequence shows increasing levels of organization?",
+    "options": [
+      "Organs → cells → tissues → systems",
+      "Systems → organs → cells → tissues",
+      "Cells → tissues → organs → systems",
+      "Tissues → systems → cells → organs"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Cells form tissues, tissues form organs, and organs work together in systems.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q029",
+    "subject": "Science",
+    "topic": "Cell Structure",
+    "skill": "Cell structure",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which structure controls many activities of a cell?",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Cell wall",
+      "Vacuole"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The nucleus contains genetic material and helps control cell activities.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q030",
+    "subject": "Science",
+    "topic": "Cell Structure",
+    "skill": "Cell structure",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which structure is commonly associated with plant cells and gives extra support?",
+    "options": [
+      "Cytoplasm",
+      "Mitochondrion",
+      "Nucleus",
+      "Cell wall"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Plant cells have a cell wall that provides support.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q031",
+    "subject": "Science",
+    "topic": "Cell Structure",
+    "skill": "Cell structure",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which structure is found in both plant and animal cells?",
+    "options": [
+      "Chloroplast only",
+      "Large central vacuole only",
+      "Cell wall only",
+      "Cell membrane"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Both plant and animal cells have cell membranes.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q032",
+    "subject": "Science",
+    "topic": "Cell Structure",
+    "skill": "Cell structure",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is the main role of the cell membrane?",
+    "options": [
+      "To store the whole organism",
+      "To control what enters and leaves the cell",
+      "To produce bones",
+      "To make the cell square"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The cell membrane regulates movement of substances into and out of the cell.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q033",
+    "subject": "Science",
+    "topic": "Cell Structure",
+    "skill": "Cell structure",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which structure contains the cell's genetic material?",
+    "options": [
+      "Cell membrane",
+      "Vacuole",
+      "Nucleus",
+      "Cell wall"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The nucleus contains genetic material in typical plant and animal cells.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q034",
+    "subject": "Science",
+    "topic": "Cell Structure",
+    "skill": "Cell structure",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which organelle is strongly associated with photosynthesis in plant cells?",
+    "options": [
+      "Chloroplast",
+      "Ribosome",
+      "Nucleus",
+      "Cell membrane"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll and are the site of photosynthesis.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q035",
+    "subject": "Science",
+    "topic": "Cell Structure",
+    "skill": "Cell structure",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which structure helps a plant cell maintain its shape and support?",
+    "options": [
+      "Cell membrane only",
+      "Cytoplasm",
+      "Nucleus",
+      "Cell wall"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "The cell wall provides structural support.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q036",
+    "subject": "Science",
+    "topic": "Specialization",
+    "skill": "Specialized cells",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What does cell specialization mean?",
+    "options": [
+      "Cells develop features suited to particular jobs",
+      "Cells become organs immediately",
+      "Cells stop working",
+      "All cells become identical"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Specialized cells have structures or features suited to particular functions.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q037",
+    "subject": "Science",
+    "topic": "Specialization",
+    "skill": "Specialized cells",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why can cells in the same organism have different shapes?",
+    "options": [
+      "They can be specialized for different functions",
+      "They cannot share genetic information",
+      "They have different planets",
+      "They are always different species"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Different shapes and structures can help cells perform different jobs.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q038",
+    "subject": "Science",
+    "topic": "Tissues",
+    "skill": "Tissues",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is a tissue?",
+    "options": [
+      "A whole organism",
+      "A group of similar cells working together",
+      "A single cell",
+      "A collection of unrelated planets"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "A tissue is made of cells working together to perform a function.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q039",
+    "subject": "Science",
+    "topic": "Organs",
+    "skill": "Organs",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is an organ?",
+    "options": [
+      "A single cell only",
+      "A single molecule",
+      "A complete ecosystem",
+      "A structure made from different tissues working together"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Organs contain different tissues that work together.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q040",
+    "subject": "Science",
+    "topic": "Systems",
+    "skill": "Organ systems",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is an organ system?",
+    "options": [
+      "One organelle",
+      "A group of organs working together",
+      "One tissue only",
+      "A group of unrelated cells"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Organ systems consist of organs that cooperate to carry out major functions.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q041",
+    "subject": "Science",
+    "topic": "Systems",
+    "skill": "Connections",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why are organ systems important?",
+    "options": [
+      "They replace all tissues",
+      "They make all cells identical",
+      "They allow organs to work together to carry out body functions",
+      "They prevent cells from communicating"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Body functions depend on coordinated work among organs and systems.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q042",
+    "subject": "Science",
+    "topic": "Microscope Investigations",
+    "skill": "Scientific investigation",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why are microscopes useful when studying cells?",
+    "options": [
+      "They change cell DNA",
+      "They turn cells into organs",
+      "They make cells larger in real life",
+      "They magnify structures too small to see clearly with the naked eye"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Microscopes allow scientists to observe very small structures.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q043",
+    "subject": "Science",
+    "topic": "Microscope Investigations",
+    "skill": "Observation",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "When observing cells through a microscope, what should a student do first with observations?",
+    "options": [
+      "Ignore the evidence",
+      "Change the sample to fit a prediction",
+      "Record what is actually seen",
+      "Invent results"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Scientific investigations depend on careful observation and recording of evidence.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q044",
+    "subject": "Science",
+    "topic": "Connections",
+    "skill": "Systems thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which statement best connects the unit 'From Cells to Systems'?",
+    "options": [
+      "Organs form cells",
+      "Systems are made only of one cell",
+      "Cells form tissues, tissues form organs, and organs work together in systems",
+      "Cells are unrelated to organs"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "This summarizes the organization explored in the unit.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q045",
+    "subject": "Science",
+    "topic": "Connections",
+    "skill": "Critical thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "If one type of specialized cell could not perform its function, what would be the most reasonable concern?",
+    "options": [
+      "Nothing could ever change",
+      "Maps would stop working",
+      "All cells would immediately disappear",
+      "The tissue or system depending on it could be affected"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Cells contribute to tissues and systems, so a problem in one cell type can affect higher levels.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q046",
+    "subject": "Integrated Humanities",
+    "topic": "Types of Maps",
+    "skill": "Map interpretation",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which type of map is designed to show a particular theme or topic?",
+    "options": [
+      "Thematic map",
+      "Random map",
+      "Blank map",
+      "Personal diary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The unit identifies thematic maps as a type of map used for particular information.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q047",
+    "subject": "Integrated Humanities",
+    "topic": "Types of Maps",
+    "skill": "Map interpretation",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What can a historical map help us understand?",
+    "options": [
+      "Only today's weather",
+      "Only the future",
+      "How to calculate square roots",
+      "Places and patterns at a particular time in the past"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Historical maps can provide information about places and space at a past time.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q048",
+    "subject": "Integrated Humanities",
+    "topic": "Map Symbols",
+    "skill": "Map skills",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why are symbols used on maps?",
+    "options": [
+      "To make maps impossible to read",
+      "To represent real features in a simple visual way",
+      "To show only opinions",
+      "To replace all scales"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Map symbols communicate information about features efficiently.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q049",
+    "subject": "Integrated Humanities",
+    "topic": "Map Symbols",
+    "skill": "Map skills",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What should you check to understand what symbols on a map mean?",
+    "options": [
+      "The map key or legend",
+      "A calculator",
+      "The title of a different book",
+      "A weather forecast"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A map key or legend explains the symbols used.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q050",
+    "subject": "Integrated Humanities",
+    "topic": "Scale",
+    "skill": "Map skills",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What does a map scale help you understand?",
+    "options": [
+      "The relationship between map distance and real-world distance",
+      "The number of countries in the world",
+      "The age of the mapmaker",
+      "The color of the paper"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Scale connects distances shown on a map to actual distances.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q051",
+    "subject": "Integrated Humanities",
+    "topic": "Coordinates",
+    "skill": "Map skills",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why are coordinates useful on a map?",
+    "options": [
+      "They show only population",
+      "They help identify a specific location",
+      "They measure temperature only",
+      "They remove the need for maps"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Coordinates provide a way to locate places precisely.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q052",
+    "subject": "Integrated Humanities",
+    "topic": "Coordinates",
+    "skill": "Map skills",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "If two places have different coordinates, what can the coordinates help you compare?",
+    "options": [
+      "Their cell structures",
+      "Their school grades",
+      "Their favorite foods",
+      "Their locations"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Coordinates describe location.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q053",
+    "subject": "Integrated Humanities",
+    "topic": "Settlements",
+    "skill": "Settlement factors",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is a settlement?",
+    "options": [
+      "A place where people establish a community",
+      "A cell organelle",
+      "A mathematical operation",
+      "A type of map symbol"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Settlements are places where people live and establish communities.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q054",
+    "subject": "Integrated Humanities",
+    "topic": "Settlements",
+    "skill": "Settlement factors",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which is a physical factor that can influence where a settlement develops?",
+    "options": [
+      "Favorite sports team",
+      "Color of buildings",
+      "Availability of water",
+      "Type of music"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Physical factors such as water availability can influence settlement location.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q055",
+    "subject": "Integrated Humanities",
+    "topic": "Settlements",
+    "skill": "Settlement factors",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which is a human factor that can influence settlement growth?",
+    "options": [
+      "Rock color",
+      "Transport and infrastructure",
+      "Mountain height only",
+      "River shape only"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Human infrastructure, including transport, can influence settlement development.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q056",
+    "subject": "Integrated Humanities",
+    "topic": "Human-Environment Interaction",
+    "skill": "Human-environment interaction",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What does human-environment interaction describe?",
+    "options": [
+      "How films are edited",
+      "How people and the environment affect one another",
+      "How cells divide",
+      "How numbers are squared"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The unit asks students to analyze relationships between people and their environment.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q057",
+    "subject": "Integrated Humanities",
+    "topic": "Sustainability",
+    "skill": "Sustainability",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What does a sustainable choice aim to do?",
+    "options": [
+      "Ignore future generations",
+      "Meet needs while considering future environmental and human needs",
+      "Use resources without limits",
+      "Increase waste whenever possible"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Sustainability considers long-term effects and future needs.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q058",
+    "subject": "Integrated Humanities",
+    "topic": "Sustainability",
+    "skill": "Settlement planning",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why should sustainability be considered when planning future settlements?",
+    "options": [
+      "Settlement choices can affect resources and the environment over time",
+      "It makes maps unnecessary",
+      "It removes all transport",
+      "It changes cells into organs"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The unit connects sustainable choices with future settlements.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q059",
+    "subject": "Integrated Humanities",
+    "topic": "Technology",
+    "skill": "Mapping technology",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "How can technological innovation influence mapping?",
+    "options": [
+      "It can change how people collect, represent and interpret geographic information",
+      "It prevents people from using coordinates",
+      "It removes all map symbols",
+      "It makes every place identical"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The unit asks how technological innovations in mapping influence perceptions of time, place and space.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q060",
+    "subject": "Integrated Humanities",
+    "topic": "Models and Systems",
+    "skill": "Geographic thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why can a map be considered a model?",
+    "options": [
+      "It contains every detail of reality",
+      "It represents selected features of a real place",
+      "It is the actual landscape",
+      "It is always a photograph"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "A model represents aspects of a more complex real-world system.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q061",
+    "subject": "Integrated Humanities",
+    "topic": "Communication",
+    "skill": "Map communication",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which statement best explains why maps are useful forms of communication?",
+    "options": [
+      "They are used only for decoration",
+      "They communicate only emotions",
+      "They communicate information about places and spatial relationships visually",
+      "They can show no data"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Maps communicate geographic information using visual conventions.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q062",
+    "subject": "Integrated Humanities",
+    "topic": "Research",
+    "skill": "Information literacy",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "When using geographic data, why should information be verified?",
+    "options": [
+      "To make sure the information is reliable and accurate",
+      "To replace all sources",
+      "To make the map colorful",
+      "To avoid using evidence"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The unit's research skills include finding, interpreting, judging and verifying information.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q063",
+    "subject": "Integrated Humanities",
+    "topic": "Inquiry Questions",
+    "skill": "Conceptual thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "How can maps help us understand relationships between people and their environment?",
+    "options": [
+      "They cannot show human activity",
+      "They show only cell parts",
+      "They show where people and environmental features are located and how they relate spatially",
+      "They show only mathematical roots"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Maps can reveal spatial patterns connecting people and environmental features.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q064",
+    "subject": "Integrated Humanities",
+    "topic": "Inquiry Questions",
+    "skill": "Critical thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "The unit asks whether mapping the world can make people more connected or divided. What type of inquiry question is this?",
+    "options": [
+      "Purely mathematical",
+      "Debatable",
+      "A spelling exercise",
+      "Procedural only"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The document identifies this as a debatable inquiry question.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q065",
+    "subject": "Integrated Humanities",
+    "topic": "Inquiry Questions",
+    "skill": "Critical thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which question is closest to a factual inquiry in this unit?",
+    "options": [
+      "What are the different types of maps?",
+      "Is mapping always good or bad?",
+      "Can art trick the viewer?",
+      "Should every settlement be moved?"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The unit lists types of maps, symbols, scales and coordinates as factual inquiry topics.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q066",
+    "subject": "English",
+    "topic": "Documentary Elements",
+    "skill": "Identify documentary elements",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which item is specifically required in the documentary task?",
+    "options": [
+      "A multiplication table",
+      "A map scale",
+      "Title of the documentary",
+      "A cell diagram"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The task asks students to include a title of the documentary.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q067",
+    "subject": "English",
+    "topic": "Hook",
+    "skill": "Documentary elements",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is the purpose of a hook at the beginning of a documentary?",
+    "options": [
+      "To label a map",
+      "To name a cell",
+      "To calculate the budget",
+      "To capture the audience's attention"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "A hook is used to engage the audience.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q068",
+    "subject": "English",
+    "topic": "Roles",
+    "skill": "Documentary production",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which role is specifically mentioned in the class task?",
+    "options": [
+      "Director",
+      "Mathematician only",
+      "Geologist only",
+      "Cartographer only"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The document gives Director, Cameraman and Editor as examples of documentary roles.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q069",
+    "subject": "English",
+    "topic": "Roles",
+    "skill": "Documentary production",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which pair contains two roles mentioned in the task?",
+    "options": [
+      "Cameraman and Editor",
+      "Teacher and Nurse",
+      "Doctor and Pilot",
+      "Artist and Engineer"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Cameraman and Editor are both explicitly listed.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q070",
+    "subject": "English",
+    "topic": "Social Message",
+    "skill": "Documentary purpose",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What should the social message communicate?",
+    "options": [
+      "An important idea or issue the documentary wants the audience to consider",
+      "A map coordinate",
+      "The answer to a square-root question",
+      "A cell organelle"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The task requires a social message as part of the documentary.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q071",
+    "subject": "English",
+    "topic": "Purpose and Impact",
+    "skill": "Documentary purpose",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why should a documentary consider its purpose and impact?",
+    "options": [
+      "To locate a settlement",
+      "To label a plant cell",
+      "To make clear what it aims to communicate and how it may affect its audience",
+      "To calculate cube roots"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Purpose and impact are named elements of the documentary task.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q072",
+    "subject": "English",
+    "topic": "Script Writing",
+    "skill": "Script writing",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is a documentary script used for?",
+    "options": [
+      "Calculating a map scale",
+      "Classifying cells",
+      "Planning what will be communicated and how the documentary will be presented",
+      "Finding a square root"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The task centers on Documentary Script Writing and its required details.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q073",
+    "subject": "English",
+    "topic": "Documentary Review",
+    "skill": "Review skills",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is the Documentary Review task connected to?",
+    "options": [
+      "Cell specialization only",
+      "Settlement coordinates only",
+      "The documentary work started in class",
+      "Perfect cubes only"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The document asks learners to complete the Documentary Review started in class.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q074",
+    "subject": "English",
+    "topic": "Table",
+    "skill": "Reading and organizing information",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What should students do with the table related to Documentary Script Writing?",
+    "options": [
+      "Ignore it",
+      "Complete it using concepts and content already covered in class",
+      "Use it to calculate percentages",
+      "Replace it with a map"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The document says the table is based on concepts and content already covered in class.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q075",
+    "subject": "English",
+    "topic": "Notes",
+    "skill": "Revision skills",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which resources does the teacher recommend reviewing for the documentary table?",
+    "options": [
+      "Only a calculator",
+      "Class notes and the concepts/content already covered",
+      "Only a microscope",
+      "Only a map"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Students are asked to go through their notes and complete the table carefully.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q076",
+    "subject": "English",
+    "topic": "Documentary Elements",
+    "skill": "Recall",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which list contains only documentary-task elements named in the class message?",
+    "options": [
+      "Title, hook, roles and social message",
+      "Square root, cube root, scale and coordinates",
+      "Cell wall, nucleus, tissue and organ",
+      "Fraction, decimal, percentage and integer"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "These are all explicitly named documentary elements.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q077",
+    "subject": "English",
+    "topic": "Production",
+    "skill": "Sequencing",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What stage does the class hope to move toward once documentary concepts are clear?",
+    "options": [
+      "Shooting and production",
+      "Microscope calibration",
+      "Square-root practice",
+      "Map drawing only"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The message says clear concepts prepare learners for the shooting and production stage.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q078",
+    "subject": "English",
+    "topic": "Audience",
+    "skill": "Communication",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why is the audience important when planning a documentary?",
+    "options": [
+      "The audience becomes the map key",
+      "The documentary needs to communicate ideas effectively to viewers",
+      "The audience changes cells into tissues",
+      "The audience determines square roots"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The task asks students to consider purpose and impact, which depend on communication with an audience.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q079",
+    "subject": "English",
+    "topic": "Script Writing",
+    "skill": "Planning",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which part of a documentary script would most directly help organize what will be communicated?",
+    "options": [
+      "A cell membrane",
+      "A multiplication sign",
+      "The script itself",
+      "A map coordinate"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The script organizes the content and presentation of the documentary.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q080",
+    "subject": "English",
+    "topic": "Social Message",
+    "skill": "Critical thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "A documentary about a local environmental issue wants viewers to think about responsible choices. Which required element is this mainly connected to?",
+    "options": [
+      "Cell nucleus",
+      "Map scale",
+      "Social message",
+      "Cube root"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "A social message communicates the issue or idea the documentary wants viewers to consider.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q081",
+    "subject": "English",
+    "topic": "Purpose and Impact",
+    "skill": "Critical thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "If a documentary aims to raise awareness about an issue, which element should explain what the documentary hopes to achieve?",
+    "options": [
+      "Cell wall",
+      "Square root",
+      "Map legend",
+      "Purpose"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Purpose explains what the documentary aims to achieve.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q082",
+    "subject": "English",
+    "topic": "Review",
+    "skill": "Evaluation",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is the main purpose of completing a documentary review?",
+    "options": [
+      "To reflect on and evaluate the documentary work",
+      "To identify a cell organelle",
+      "To solve BEDMAS expressions",
+      "To locate a settlement"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A review supports reflection and evaluation of the documentary.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q083",
+    "subject": "English",
+    "topic": "Roles",
+    "skill": "Production planning",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why is it useful to assign roles such as director, cameraman and editor?",
+    "options": [
+      "It removes the need for a script",
+      "Different responsibilities can be organized during production",
+      "It changes the documentary into a map",
+      "It calculates the documentary's square root"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Defined roles help organize production responsibilities.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q084",
+    "subject": "English",
+    "topic": "Communication",
+    "skill": "Communication skills",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which action best supports effective communication in a documentary?",
+    "options": [
+      "Presenting information clearly for the intended audience",
+      "Adding unrelated information",
+      "Removing the main message",
+      "Ignoring the audience"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Effective communication requires clarity and attention to the audience.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q085",
+    "subject": "English",
+    "topic": "Revision",
+    "skill": "Study skills",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why is reviewing class notes useful before completing the documentary table?",
+    "options": [
+      "The notes replace the script",
+      "The table is based on concepts and content already covered in class",
+      "The notes automatically produce the documentary",
+      "The notes are used only for mathematics"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The teacher specifically directs students to review the concepts and notes covered in class.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q086",
+    "subject": "Visual Art",
+    "topic": "Op Art",
+    "skill": "Identify Op Art",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What is Op Art?",
+    "options": [
+      "Art that cannot affect perception",
+      "Art made only from numbers",
+      "Art that uses visual effects to challenge perception",
+      "Art that only shows historical maps"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The unit explores art and perception, including optical illusions.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q087",
+    "subject": "Visual Art",
+    "topic": "Elements of Art",
+    "skill": "Visual elements",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which set contains elements named in the unit as tools for creating optical illusions?",
+    "options": [
+      "Squares, cubes, roots and fractions",
+      "Line, shape, colour and space",
+      "Cells, tissues, organs and systems",
+      "Maps, scales, coordinates and settlements"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The unit names line, shape, colour, space and composition.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q088",
+    "subject": "Visual Art",
+    "topic": "Pattern",
+    "skill": "Visual elements",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "How can pattern affect what we see?",
+    "options": [
+      "Patterns are used only in maps",
+      "Repeated visual arrangements can create effects that challenge perception",
+      "Patterns always make images disappear",
+      "Patterns have no visual effect"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The unit asks how line, shape, colour and pattern affect what we see.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q089",
+    "subject": "Visual Art",
+    "topic": "Perspective",
+    "skill": "Perspective",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which key concept is listed for the unit?",
+    "options": [
+      "Cells",
+      "Multiplication",
+      "Coordinates",
+      "Perspective"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Perspective is listed as a key concept.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q090",
+    "subject": "Visual Art",
+    "topic": "Composition",
+    "skill": "Related concepts",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which is a related concept named in the unit?",
+    "options": [
+      "Settlement",
+      "Tissue",
+      "Composition",
+      "Cube root"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Composition is listed as a related concept.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q091",
+    "subject": "Visual Art",
+    "topic": "Representation",
+    "skill": "Related concepts",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which other related concept is named in the unit?",
+    "options": [
+      "Organ system",
+      "Representation",
+      "BEDMAS",
+      "Scale"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Representation is listed as a related concept.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q092",
+    "subject": "Visual Art",
+    "topic": "Perception",
+    "skill": "Optical illusions",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why can optical illusions be interesting to artists?",
+    "options": [
+      "They can make viewers question or reinterpret what they see",
+      "They remove the need for visual elements",
+      "They only show real objects without change",
+      "They make all viewers see exactly the same thing"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The unit focuses on challenging the viewer's perception of reality.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q093",
+    "subject": "Visual Art",
+    "topic": "Line",
+    "skill": "Visual elements",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "How can lines contribute to an optical illusion?",
+    "options": [
+      "Lines are used only to write words",
+      "Lines cannot affect perception",
+      "Their direction and arrangement can influence how the viewer perceives movement or shape",
+      "Lines always create real movement"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The unit specifically asks how visual elements can affect perception.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q094",
+    "subject": "Visual Art",
+    "topic": "Shape",
+    "skill": "Visual elements",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "How can shape be used in an illusion?",
+    "options": [
+      "Shapes can only represent maps",
+      "Shapes automatically become cells",
+      "Shapes have no role in visual art",
+      "Shapes can be arranged to create unexpected visual relationships"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Shape is one of the visual elements explored for creating illusions.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q095",
+    "subject": "Visual Art",
+    "topic": "Colour",
+    "skill": "Visual elements",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why can colour matter in optical illusions?",
+    "options": [
+      "Colour relationships can influence how forms and patterns are perceived",
+      "Colour determines cube roots",
+      "Colour never affects perception",
+      "Colour is used only to label maps"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The unit identifies colour as a visual element that can affect what we see.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q096",
+    "subject": "Visual Art",
+    "topic": "Space",
+    "skill": "Depth",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "How can a flat artwork appear to have depth?",
+    "options": [
+      "Only maps can show depth",
+      "A flat surface must physically become 3D",
+      "Depth cannot be suggested in art",
+      "Artists can manipulate visual elements and space"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "The statement of inquiry says artists manipulate visual elements and space to challenge perception.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q097",
+    "subject": "Visual Art",
+    "topic": "Movement",
+    "skill": "Visual perception",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "How can a flat surface appear to move?",
+    "options": [
+      "By physically moving the paper",
+      "By adding a calculator",
+      "Through careful use of visual elements such as line, shape, colour and pattern",
+      "By changing the paper into a map"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The unit asks how artists can make a flat surface appear to move.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q098",
+    "subject": "Visual Art",
+    "topic": "Perception",
+    "skill": "Different viewpoints",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Why might two people see an optical illusion differently?",
+    "options": [
+      "Everyone's perception is always identical",
+      "Perception can vary between viewers",
+      "The artwork changes its chemical composition",
+      "Only the artist can see the illusion"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The unit includes the conceptual question of why people may perceive an illusion differently.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q099",
+    "subject": "Visual Art",
+    "topic": "Statement of Inquiry",
+    "skill": "Critical thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "What does the unit's statement of inquiry say artists manipulate to challenge the viewer's perception of reality?",
+    "options": [
+      "Only numbers",
+      "Only cells",
+      "Only maps",
+      "Visual elements and space"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "The statement says artists manipulate visual elements and space.",
+    "isSupplemental": false
+  },
+  {
+    "id": "zuhair_week_05_q100",
+    "subject": "Visual Art",
+    "topic": "Debatable Questions",
+    "skill": "Critical thinking",
+    "level": 6,
+    "minLevel": 1,
+    "maxLevel": 10,
+    "question": "Which question is listed as a debatable inquiry question in the unit?",
+    "options": [
+      "What are map coordinates?",
+      "What is √49?",
+      "Can art trick the viewer?",
+      "What is a cell?"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "“Can art trick the viewer?” is explicitly listed as a debatable inquiry question.",
+    "isSupplemental": false
+  }
+]
