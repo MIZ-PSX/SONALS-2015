@@ -1,0 +1,12 @@
+{
+  "id": "zuhair_week_05",
+  "name": "Week 05 - Class Work Revision",
+  "group": "weekly_review",
+  "category": "Week 05",
+  "version": 1,
+  "defaultEnabled": false,
+  "questionFile": "week05_questions.json",
+  "files": [
+    "week05_questions.json"
+  ]
+}
